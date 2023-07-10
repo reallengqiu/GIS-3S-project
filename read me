@@ -1,3 +1,6 @@
 3S project for short semester
-  test.js refers to the code for GEE which used to download the tif from sentinel-2 data.
-  TGS UNET.ipynb refers to the example code of u-net 
+1.  test.js refers to the code for GEE which used to download the tif from sentinel-2 data.
+2.  TGS UNET.ipynb refers to the example code of u-net 
+
+
+3.  the way to use github and vscode to upload files to github:        https://blog.csdn.net/m0_51185558/article/details/126181439
