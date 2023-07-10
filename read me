@@ -1,2 +1,3 @@
 3S project for short semester
-the code for GEE which used to download the tif from sentinel-2 data.
+  test.js refers to the code for GEE which used to download the tif from sentinel-2 data.
+  TGS UNET.ipynb refers to the example code of u-net 
